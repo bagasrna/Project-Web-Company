@@ -1,3 +1,3 @@
-# Project-Web-Company
+# Insidecoding Bootcamp  2021 - HTML & CSS
 
-<p>halo aku gio , udah berhasil update readme hehe salam kenal semua :)</p>
+<p>Insidecoding Bootcamp  2021 - HTML & CSS</p>
