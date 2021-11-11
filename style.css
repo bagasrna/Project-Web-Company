@@ -6,17 +6,17 @@ body {
 .header {
   background-color: rgba(0, 0, 0, 0.9);
   color: #fff;
-  height: 55px;
+  height: 60px;
   width: 100%;
   position: fixed;
   top: 0;
   left: 0;
   z-index: 10;
-  }
+}
 
 .header-left p {
-  font-size:30px;
-  float:left;
+  font-size: 30px;
+  float: left;
   width: 100px;
   line-height: 0px;
   margin-left: 15px;
@@ -31,6 +31,12 @@ body {
   text-decoration: none;
 }
 
+.header a:hover {
+  background-color: #fff;
+  color: #333;
+  transition: all 0.5s;
+}
+
 .container {
  max-width: 1290px;
  padding: 0 15px;
@@ -39,7 +45,7 @@ body {
 
 .main {
   background-color: white;
-  height: 710px;
+  height: 650px;
 }
 
 .main h1 {
@@ -60,56 +66,52 @@ color: #7d7c83;
 text-align: center;
 }
 
-.container a {
+.main a {
   text-decoration: none;
-  text-align: center;
-  margin: 0 auto;
-  width: 100%;
+  margin-left: 46%;
   color: #2993f9;
 }
 
 .main img {
-height: 170px;
-margin: 0 225px;
+height: 150px;
+margin-left: 22%;
 }
 
 .mainn {
   background-color: #35283c;
-  height: 400px;
+  height: 330px;
   width: 100%;
   margin: 0 auto;
   text-align: center;
 }
 
 .mainn h2 {
-  position: absolute;
   color: white;
   width: 100%;
   text-align: center;
+  margin-top: 5px;
+  margin-left: 10px;
 }
 
 .mainn h3 {
-  position: absolute;
   color: #fabfe8;
-  margin: 0 auto;
+  text-align: center;
+  margin-left: 30px;
 }
 
 .mainn p {
-  position: absolute;
   color: #7d7c83;
-  margin: 10px auto;
+  margin-left: 20px;
 }
 
 .mainn a {
-  position: absolute;
   text-decoration: none;
-  margin: 10px auto;
+  margin-right: 600px;
 }
 
-.mainn-img img {
-  height: 400px;
-  width: 100%;
-  position: relative;
+.mainn-img {
+  height: 600px;
+  width: 84%;
 }
 
 /*Footer CSS*/
