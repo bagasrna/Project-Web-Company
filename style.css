@@ -1,12 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
+  padding: 0;
   font-family: "SF Pro Display";
 }
 
 .header {
   background-color: rgba(0, 0, 0, 0.9);
   color: #fff;
-  height: 60px;
+  height: 70px;
   width: 100%;
   position: fixed;
   top: 0;
@@ -14,12 +19,10 @@ body {
   z-index: 10;
 }
 
-.header-left p {
-  font-size: 30px;
+.header-left {
   float: left;
-  width: 100px;
-  line-height: 0px;
-  margin-left: 15px;
+  padding: 12px 25px;
+  margin-left: 40px;
 }
 
 .header-right a {
@@ -27,13 +30,13 @@ body {
   float: left;
   list-style: none;
   color: white;
-  padding: 12px 25px;
+  padding: 19px 25px;
   text-decoration: none;
 }
 
-.header a:hover {
+.header-right a:hover {
   background-color: #fff;
-  color: #333;
+  color: rgb(61, 27, 27);
   transition: all 0.5s;
 }
 
@@ -91,6 +94,7 @@ margin-left: 22%;
   text-align: center;
   margin-top: 5px;
   margin-left: 10px;
+  padding-top: 10px;
 }
 
 .mainn h3 {
@@ -117,5 +121,16 @@ margin-left: 22%;
 /*Footer CSS*/
 .footer {
   background-color: white;
-  height: 200px;
+  height: -50px;
 }
+
+.footer p {
+  font-size: 16px;
+  padding: 5px;
+}
+
+.footer ul {
+  float: left;
+}
+
+

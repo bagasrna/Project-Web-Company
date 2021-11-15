@@ -1,0 +1,6 @@
+/*Untuk Tablet*/
+@media (max-width: 1170px) {
+    .main img {
+        width: 60%;
+    }
+}
