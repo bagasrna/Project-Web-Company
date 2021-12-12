@@ -36,23 +36,6 @@
 
 <p>Template picks up where Osseous left off and takes things a bit further with &#8216;Template&#8217;. It includes namespaced functions and customized defaults along with a lot of other stuff I like and use for my development. Your mileage may vary.</p>
 
-<p>2017 Update: we&#8217;ve gone through and done a major rewrite, adding and updating the following:
-- WordPress Customizer support
-- WooCommerce support
-- updated body class function
-- expanded Quicktags
-- template part library (really cool)
-- updated comments
-- cleaned up header.php
-- admin and login page updates
-- updated media query .scss stylesheets
-- removed @2x and ie_grid (who uses those?)
-- HTML schema support
-- updated css reset
-- default .scss classes</p>
-
-<p>&#8230;and much, much more.</p>
-
 <p>This is the beginning for Template so we welcome improvements, comments, criticism and general feedback. I&#8217;ve probably made a ton of mistakes so as with anything open source, it is a work in progress.</p>
 
 <h2 id="recommendedplugins">Recommended Plugins</h2>
