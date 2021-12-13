@@ -53,9 +53,6 @@
 
 <p>With help from @joniler.</p>
 
-<p>License: WTFPL
-License URI: http://sam.zoy.org/wtfpl/</p>
-
 <p>Do whatever you want. Freedom, baby.</p>
 
 <h4 id="specialthanksto:">Special Thanks to:</h4>
