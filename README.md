@@ -63,7 +63,5 @@
 
 <p>https://github.com/joshuaiz/template/issues</p>
 
-<p>To view Release &amp; Update Notes, read the CHANGELOG.md file in the main folder.</p>
-
 </body>
 </html>
