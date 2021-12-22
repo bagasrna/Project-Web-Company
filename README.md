@@ -59,9 +59,5 @@
 
 <p>@eddiemachado — all credit is due to him and the original Bones collaborators: Paul Irish, Yoast, Andrew Rogers, David Dellanave and others.</p>
 
-<h4 id="submitbugsorfixes:">Submit Bugs &amp; or Fixes:</h4>
-
-<p>https://github.com/joshuaiz/template/issues</p>
-
 </body>
 </html>
