@@ -57,7 +57,5 @@
 
 <h4 id="specialthanksto:">Special Thanks to:</h4>
 
-<p>@eddiemachado — all credit is due to him and the original Bones collaborators: Paul Irish, Yoast, Andrew Rogers, David Dellanave and others.</p>
-
 </body>
 </html>
