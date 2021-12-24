@@ -55,7 +55,5 @@
 
 <p>Do whatever you want. Freedom, baby.</p>
 
-<h4 id="specialthanksto:">Special Thanks to:</h4>
-
 </body>
 </html>
