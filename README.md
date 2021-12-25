@@ -51,7 +51,6 @@
 
 <p>Designed by Joshua Michaels for studio.bio: http://studio.bio/themes/template</p>
 
-<p>With help from @joniler.</p>
 
 <p>Do whatever you want. Freedom, baby.</p>
 
